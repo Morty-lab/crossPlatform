@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428400188287",
+    "project_id": "crossplatform-c44c4",
+    "storage_bucket": "crossplatform-c44c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428400188287:android:28ca68e670b7d86b06184a",
+        "android_client_info": {
+          "package_name": "com.example.crossplatform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1rsOIWl2e_rLiMLpXN7kHgR4PbaUC9Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
